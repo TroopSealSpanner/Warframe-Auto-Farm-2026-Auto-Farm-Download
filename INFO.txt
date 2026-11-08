@@ -1,0 +1,6 @@
+Warframe-Auto-Farm-2026-Auto-Farm-Download
+Edition: Performance Build
+Package reference: Warframe-Auto-Farm-2026
+Language: English
+Platform: Windows 10 / Windows 11 x64
+Read README.md before opening the downloaded package.
